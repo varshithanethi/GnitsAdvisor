@@ -1,0 +1,11 @@
+Flask==2.3.3
+Flask-CORS==4.0.0
+Flask-SQLAlchemy==3.0.5
+Flask-APScheduler==1.12.3
+python-dotenv==1.0.0
+Werkzeug==2.3.7
+requests==2.31.0
+beautifulsoup4==4.12.2
+SQLAlchemy==1.4.23
+pytz==2023.3
+psycopg2-binary==2.9.9

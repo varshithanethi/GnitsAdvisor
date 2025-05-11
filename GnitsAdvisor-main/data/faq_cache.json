@@ -1,0 +1,19 @@
+{
+    "last_updated": "2025-05-11T09:39:37.508150",
+    "faq": {
+        "student": {
+            "admission": {
+                "What are the eligibility criteria?": "Candidates must have completed 10+2 with PCM subjects and qualify in TG-EAMCET",
+                "How to apply?": "Apply through TG-EAMCET counseling process"
+            },
+            "courses": {
+                "What courses are offered?": "\n### B.Tech Programs\n- Computer Science and Engineering (CSE)\n- Information Technology (IT)\n- Electronics and Communication Engineering (ECE)\n- Electrical and Electronics Engineering (EEE)\n- Electronics and Telematics Engineering (ETM)\n- CSE (AI & ML)\n- CSE (Data Science)\n"
+            }
+        },
+        "parent": {
+            "fees": {
+                "What is the fee structure?": "\n### Fee Structure\n- Category A & B (JEE): \u20b91,00,000/year\n- Category B (NRI): USD 5,000/year\n- Additional JNTUH fees applicable\n"
+            }
+        }
+    }
+}

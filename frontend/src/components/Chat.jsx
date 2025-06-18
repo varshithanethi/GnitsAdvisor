@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const Chat = () => {
+con st Chat = () => {
     const [message, setMessage] = useState('');
     const [userType, setUserType] = useState('');
     const [chatHistory, setChatHistory] = useState([]);
